@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+button img{
+    max-width: 40px;
+    max-height: 40px;
+}
+.appleBasket{
+    border: 1px solid black;
+    width: 180px;
+    
+}
+ 
+

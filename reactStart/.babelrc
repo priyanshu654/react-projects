@@ -1,0 +1,9 @@
+{
+    "presets": ["@babel/preset-react"]
+  }
+
+//first install babel from cli command which is (npm install --save-dev @babel/core @babel/cli)
+//then make changes in script of package.json :- write ("build":"babel  ./script.js -d lib")  script.js is the file where jsx copde is available  and lib will be the destination where file will be saved by babel after changing to javascript...
+//male .babelrc file and write the above code 
+// install the above dev dependencies to our module 
+// and all set.....

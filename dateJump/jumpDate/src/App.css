@@ -1,0 +1,25 @@
+.steps{
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.count{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.dec{
+  cursor: pointer;
+}
+.inc{
+  cursor: pointer;
+}
+
+.dec-count{
+  cursor: pointer;
+}
+.inc-count{
+  cursor: pointer;
+}

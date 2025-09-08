@@ -1,0 +1,9 @@
+# Ignore node_modules everywhere
+**/node_modules
+
+# Ignore parcel cache
+**/.parcel-cache
+
+# Ignore build / dist folders
+**/dist
+**/build
